@@ -1,2 +1,4 @@
-# .github
- RGenomicsETL
+#  RGenomicsETL
+
+R Tools for Genomics Data Artisans
+
