@@ -1,4 +1,4 @@
-#  RGenomicsETL
+# GenomicsETL
 
-R Tools for Genomics Data Artisans
+Composable genomics in DuckDB, with R, the browser and agents as front ends
 
